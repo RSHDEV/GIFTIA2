@@ -40,8 +40,8 @@ you've just cloned!!
 ### Settings
 ```json
 {
-	"prefix": ".",
-	"ownerNumber": "62858xxxxx",
+	"prefix": "#",
+	"ownerNumber": "62812xxxxx",
 	"apiKey": "Your ApiKey here"
 }
 ```
