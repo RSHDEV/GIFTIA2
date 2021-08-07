@@ -9,9 +9,9 @@
 </p>
 <p align="center">
 <a href="https://github.com/RSHDEV/followers"><img title="Followers" src="https://img.shields.io/github/followers/RSHDEV?color=blue&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/termux-wabot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mhankbarbar/termux-wabot?color=red&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/termux-wabot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mhankbarbar/termux-wabot?color=red&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/termux-wabot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mhankbarbar/termux-wabot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/RSHDEV/GIFTIA2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/RSHDEV/GIFTIA2?color=red&style=flat-square"></a>
+<a href="https://github.com/RSHDEV/GIFTIA2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/RSHDEV/GIFTIA2?color=red&style=flat-square"></a>
+<a href="https://github.com/RSHDEV/GIFTIA2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/RSHDEV/GIFTIA2?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://www.codefactor.io/repository/github/RSHDEV/GIFTIA2"><img src="https://www.codefactor.io/repository/github/RSHDEV/GIFTIA2/badge" alt="CodeFactor" /></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
@@ -19,7 +19,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/MhankBarBar/termux-wabot
+> git clone https://github.com/RSHDEV/GIFTIA2
 ```
 
 ## Install the dependencies:
@@ -28,6 +28,7 @@ you've just cloned!!
 
 ```bash
 > cd termux-wabot
+> apt install npm
 > bash install.sh
 ```
 
