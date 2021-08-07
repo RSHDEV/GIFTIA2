@@ -1,5 +1,5 @@
 <p align="center">
-<img src="http://pm1.narvii.com/6758/23c03638db38e5afde178fcc6dc70af92f0e0586v2_00.jpg" width="128" height="128"/>
+<img src="http://pm1.narvii.com/6758/23c03638db38e5afde178fcc6dc70af92f0e0586v2_00.jpg" width="127" height="156"/>
 </p>
 <p align="center">
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
